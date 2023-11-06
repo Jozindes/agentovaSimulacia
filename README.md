@@ -17,6 +17,8 @@ _Na záver sa zákazník opäť postaví do radu pred recepčnými. Ak je rad pr
 
 _Potom zákazník odchádza zo systému. Ak prišiel autom, tak je potrebné aby si pred odchodom zobral svoje auto._
 
+-------------------
+
 _1. Každý zákazník má záujem o konkrétne služby s určitou pravdepodobnosťou._
 
 _2. Trvanie jednotlivých úkonov sú hodnoty získavané z generátorov hodnôt (rovnomerné, exponenciálne, trojuholníkové rozdelenie)._
