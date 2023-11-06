@@ -22,3 +22,5 @@ _Potom zákazník odchádza zo systému. Ak prišiel autom, tak je potrebné aby
 _1. Každý zákazník má záujem o konkrétne služby s určitou pravdepodobnosťou._
 
 _2. Trvanie jednotlivých úkonov sú hodnoty získavané z generátorov hodnôt (rovnomerné, exponenciálne, trojuholníkové rozdelenie)._
+
+**AKÉKOĽVEK KOPÍROVANIE ČASTÍ ALEBO CELÉHO ZDROJOVÉHO KÓDU JE ZAKÁZANÉ!**
